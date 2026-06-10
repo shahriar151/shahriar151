@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Shahriar Mahmood
 
-<!--
-**shahriar151/shahriar151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics graduate from Bangladesh with a strong interest in AI Engineering and Data Science.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- NumPy
+- Pandas
+- Scikit-Learn
+- LangChain
+- LangGraph
+- FastAPI
+- Streamlit
+
+## Featured Projects
+
+### PhysicsAgent
+Multi-agent AI system that answers physics questions using arXiv papers.
+
+### Chat with PDF
+RAG application built with LangChain and Streamlit.
+
+### ML Pipeline Project
+End-to-end machine learning workflow using Scikit-Learn.
+
+## Current Focus
+
+- AI Engineering
+- Multi-Agent Systems
+- Retrieval-Augmented Generation (RAG)
+- Applied Machine Learning

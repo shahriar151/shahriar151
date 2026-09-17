@@ -1,13 +1,27 @@
 # Hi, I'm Shahriar Mahmood
 
-Physics graduate from Bangladesh with a strong interest in AI Engineering and Data Science.
+Physics graduate from Bangladesh with interests in Computational Physics,
+Scientific Computing, and numerical methods for studying physical systems.
+
+## Academic & Technical Interests
+
+- Computational Physics
+- Scientific Computing
+- Numerical Simulation
+- Computational Materials Science
+- Theoretical Physics
+- Physics of the Universe
+- AI/ML for Scientific Applications
 
 ## Skills
 
 - Python
 - NumPy
 - Pandas
+- Matplotlib
 - Scikit-Learn
+- CASTEP
+- Materials Studio
 - LangChain
 - LangGraph
 - FastAPI
@@ -16,17 +30,21 @@ Physics graduate from Bangladesh with a strong interest in AI Engineering and Da
 ## Featured Projects
 
 ### PhysicsAgent
-Multi-agent AI system that answers physics questions using arXiv papers.
+AI-assisted system for physics literature research using arXiv retrieval,
+Retrieval-Augmented Generation (RAG), and multi-agent workflows.
 
 ### Chat with PDF
-RAG application built with LangChain and Streamlit.
+A document-based question-answering application using retrieval and
+language-model techniques.
 
 ### ML Pipeline Project
-End-to-end machine learning workflow using Scikit-Learn.
+End-to-end machine learning workflow using Scikit-Learn for data analysis
+and prediction.
 
 ## Current Focus
 
-- AI Engineering
-- Multi-Agent Systems
-- Retrieval-Augmented Generation (RAG)
-- Applied Machine Learning
+- Computational Physics
+- Scientific Computing
+- Numerical Simulation
+- Computational Materials Science
+- Programming for Scientific Applications

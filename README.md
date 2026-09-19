@@ -10,7 +10,7 @@ Scientific Computing, and numerical methods for studying physical systems.
 - Numerical Simulation
 - Computational Materials Science
 - Theoretical Physics
-- Physics of the Universe
+- Astrophysics
 - AI/ML for Scientific Applications
 
 ## Skills
@@ -33,13 +33,16 @@ Scientific Computing, and numerical methods for studying physical systems.
 AI-assisted system for physics literature research using arXiv retrieval,
 Retrieval-Augmented Generation (RAG), and multi-agent workflows.
 
-### Chat with PDF
-A document-based question-answering application using retrieval and
-language-model techniques.
-
 ### ML Pipeline Project
 End-to-end machine learning workflow using Scikit-Learn for data analysis
 and prediction.
+
+### local-doc-chat
+Offline document Q&A tool using a locally-hosted LLM and retrieval techniques.
+
+### InsightPDF 
+A document-based question-answering application using retrieval and
+language-model techniques.
 
 ## Current Focus
 
